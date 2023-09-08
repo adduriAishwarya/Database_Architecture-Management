@@ -1,5 +1,4 @@
 # Database_Architecture-Management
-Electoral Database Architecture and Management
 
 ## Electoral Database Management System 
 • Database management system that digitalizes the election by recording and managing the election processes that 
@@ -35,10 +34,10 @@ The Electoral Database Management System is designed to digitalize and streamlin
 
 
 ## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Collaborator's Name](https://github.com/collaboratorusername)
-
+Lakshmi GayatriAishwarya Adduri https://github.com/adduriAishwarya
+https://github.com/Jyothirao3012
+https://github.com/SAMRADNI-PATHARI
+https://github.com/Chakradhar-Grandhi
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
