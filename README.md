@@ -52,5 +52,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 Feel free to reach out to adduri.l@northeastern.edu for any questions or feedback regarding this project. We welcome contributions and suggestions to further enhance the Electoral Database Management System. Thank you for your interest and support!
 
 Schema:
+![image](https://github.com/adduriAishwarya/Database_Architecture-Management/assets/114749497/ef8aa4c3-c355-4707-a842-351580d9f333)
+
 ![image](https://github.com/adduriAishwarya/Database_Architecture-Management/assets/114749497/3632c5ae-f1fd-4d34-81c8-6f602e38f0e5)
 
