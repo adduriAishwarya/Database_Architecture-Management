@@ -35,16 +35,17 @@ The Electoral Database Management System is designed to digitalize and streamlin
 
 ## Contributors
 Lakshmi GayatriAishwarya Adduri https://github.com/adduriAishwarya
-https://github.com/Jyothirao3012
-https://github.com/SAMRADNI-PATHARI
-https://github.com/Chakradhar-Grandhi
+Chakradhar Grandhi https://github.com/Chakradhar-Grandhi
+Jyothi Rao https://github.com/Jyothirao3012
+Samradhini Pathari https://github.com/SAMRADNI-PATHARI
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
-- Special thanks to Professor Naveen Kuragayala for their guidance and support throughout the project.
+- Special thanks to Professor Naveen Kuragayala for guidance and support throughout the project.
 
 ---
 
